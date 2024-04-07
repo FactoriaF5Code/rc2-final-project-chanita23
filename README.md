@@ -3,11 +3,11 @@
 
 # 👋  BIENVENIDOS A FRUTAPP🍎🍇🍒
  
- Una web que te ofrece una experiencia completa de compra de frutas y verduras🍅 🍍 que cumplen con los más altos estándares de calidad, tanto para productos nacionales como de importación.
+ Una web que te ofrece una experiencia unica a la hora de encontar anchetas o cestas de frutas🍍 para un regalo inolvidable, para agradecer a tus mejores empleados, como para cualquier ocasion y fechas especiales, que cumplen con los más altos estándares de calidad, tanto para productos nacionales como de importación.
 
- ***FRUTAPP***: Es mucho más que una página web. Es una filosofía de vida que te acerca a la tierra, a los productos y a la historia detrás de su cultivo. Es tu mercado online de confianza, realiza tus pedidos en un solo clic, programa la entrega a domicilio en el día y hora que más te convenga sin salir de la comodidad de tu hogar.
+ ***FRUTAPP***: Es mucho más que una página web. Es una filosofía de vida que te acerca a la tierra, a los productos y a la historia detrás de su cultivo. Es tu regalo online de confianza, realiza tus pedidos en un solo clic, programa la entrega a domicilio en el día y hora que más te convenga sin salir de la comodidad de tu hogar.
 
- Disfruta de la frescura del campo Español🥦🍆 y descubre exóticos tesoros provenientes de todo el mundo.🌍
+ Disfruta de la frescura del campo Español y descubre exóticos tesoros provenientes de todo el mundo.🌍
  
 
 
@@ -15,4 +15,5 @@
 - Nuestros usuarios se informaran de los beneficios de consumir frutas frescas, destacando su importancia para una dieta 
 saludable y equilibrada.
 
-
+## Enlaces
+* [Miro]()
