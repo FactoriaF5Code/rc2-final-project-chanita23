@@ -15,5 +15,3 @@
 - Nuestros usuarios se informaran de los beneficios de consumir frutas frescas, destacando su importancia para una dieta 
 saludable y equilibrada.
 
-## Enlaces
-* [Miro]()
