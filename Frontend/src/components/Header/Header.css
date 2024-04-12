@@ -4,4 +4,22 @@ header {
     align-items: center;
     height: 80px;
     border-bottom: 1px solid black;
+    background-color: #A7C957;
+    
+}
+
+
+header nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header nav span {
+    margin-right: 3rem;
+}
+
+
+header nav span:last-child {
+    margin-right: 0;
 }

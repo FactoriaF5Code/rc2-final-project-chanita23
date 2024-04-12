@@ -4,8 +4,10 @@ import "./Header.css";
 export const Header = () => <header>
     <Logo />
     <nav>
-        <span>Anchetas</span>
-        <span>Frutas Nacionales</span>
-        <span>Frutas Importadas</span>
+        <span>ANCHETAS O CESTAS REGALO</span>
+        <span>FRUTAS NACIONALES</span>
+        <span>FRUTAS IMPORTADAS</span>
+        <span>ACCESORIOS</span>
+        <span>CONTACTO</span>
     </nav>
 </header>
