@@ -4,11 +4,12 @@ export default function InfoHome() {
   return (
     <div className="info-HomeContainer">
       <h3 className="info-HomeTitle">FRUTAPP</h3>
+      <br/>
       <p className="info-Home">
-      para un regalo inolvidable, para agradecer a tus mejores empleados, 
-      como para cualquier ocasion y fechas especiales, 
+      Para un regalo inolvidable, ¡agradece a tus mejores empleados!, a tus amigos y familiares,
+      como para cualquier ocasión y fechas especiales, con productos 
       que cumplen con los más altos estándares de calidad, 
-      tanto para productos nacionales como de importación.
+      tanto nacionales como de importación.
       </p>
      
       </div>

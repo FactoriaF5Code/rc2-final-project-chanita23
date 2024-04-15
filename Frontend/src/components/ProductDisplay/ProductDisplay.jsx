@@ -7,12 +7,12 @@ function ProductDisplay() {
     <section className="product">
         <img src="../../../src/assets/ancheta 1.jpg" alt="" />
         <img src="../../../src/assets/ancheta 2.jpg" alt="" />
-        <img src="../../../src/assets/ancheta 3.jpg" alt="" />
+        <img src="../../../src/assets/ancheta 8.jpg" alt="" />
       </section>
     <section className="product">
-        <img src="../../../src/assets/ancheta 3.jpg" alt="" />
-        <img src="../../../src/assets/ancheta 4.jpg" alt="" />
         <img src="../../../src/assets/ancheta 5.jpg" alt="" />
+        <img src="../../../src/assets/ancheta 6.jpg" alt="" />
+        <img src="../../../src/assets/ancheta 7.jpg" alt="" />
       </section>
    </div>
 

@@ -2,7 +2,7 @@
   width: 100%;
   margin:auto;
   background-color: #A7C957;
-  height: 100px;
+  height: 180px;
   border-bottom: 1px solid black;
 }
 
@@ -23,7 +23,8 @@
   font-size: 1rem;
   text-align: justify;
   margin: 0 auto;
-  width: 50%;
+  width: 30%;
+  gap: 60px;
 }
 
 
