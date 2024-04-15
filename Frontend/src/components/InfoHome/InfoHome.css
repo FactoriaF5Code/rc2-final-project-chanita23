@@ -1,35 +1,31 @@
 .info-HomeContainer {
   width: 100%;
-  margin:auto;
-  background-color: #A7C957;
+  margin: auto;
+  background-color: #a7c957;
   height: 180px;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid rgb(100, 100, 100, 0.3);
+  padding-top: 10px;
 }
 
 .info-HomeTitle {
-  font-size: 2rem;
+  font-size: 2.5rem;
+  color: #fff;
+  font-weight: bold;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 60px;
   width: 100%;
-  
-  color: #1a1a1a;
- 
+  padding-top: 10px;
 }
 
 .info-Home {
   font-size: 1rem;
-  text-align: justify;
+  text-align: center;
   margin: 0 auto;
-  width: 30%;
+  width: 80%;
+  font-size: 1rem;
   gap: 60px;
+  color: #fff;
 }
-
-
-
-
-
-
-

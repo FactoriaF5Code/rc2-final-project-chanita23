@@ -17,26 +17,24 @@ export const Footer = () => {
 
             <hr />
             <div className="footer-social-icon">
-            <div className="footer-icons-container">
-                <FontAwesomeIcon icon={faFacebook} size="2xl" />
-            </div>
+                <div className="footer-icons-container">
+                    <FontAwesomeIcon icon={faFacebook} size="2xl" />
+                </div>
 
-            <div className="footer-icons-container">
-                <FontAwesomeIcon icon={faTwitter} size="2xl" />
-            </div>
+                <div className="footer-icons-container">
+                    <FontAwesomeIcon icon={faTwitter} size="2xl" />
+                </div>
 
-            <div className="footer-icons-container">
-                <FontAwesomeIcon icon={faInstagram} size="2xl" />
+                <div className="footer-icons-container">
+                    <FontAwesomeIcon icon={faInstagram} size="2xl" />
+                </div>
+                <div className="footer-icons-container">
+                    <FontAwesomeIcon icon={faTelegram} size="2xl" />
+                </div>
+                <div className="footer-icons-container">
+                    <FontAwesomeIcon icon={faWhatsapp} size="2xl" />
+                </div>
             </div>
-            <div className="footer-icons-container">
-                <FontAwesomeIcon icon={faTelegram} size="2xl" />
-            </div>
-            <div className="footer-icons-container">
-                <FontAwesomeIcon icon={faWhatsapp} size="2xl" />
-            </div>
-
-
-        </div>
             <div className="footer-copyright">
                 <p>©Derechos reservados</p>
             </div>
@@ -45,6 +43,8 @@ export const Footer = () => {
 
     )
 }
+
+
 
 
 

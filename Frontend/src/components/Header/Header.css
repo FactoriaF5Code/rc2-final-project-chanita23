@@ -2,29 +2,38 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 80px;
-    border-bottom: 1px solid black;
+    height: 85px;
+    box-shadow: 6px 8px 5px 0px rgba(0, 0, 0, 0.44);
     background-color: #A7C957;
-    gap: 60px;
-    
-    
-}
+    margin: 0 auto;
+    padding: 10px 30px;
+}   
 
 
 header nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 0 auto;
+    margin: 0 auto; 
+    gap: 60px;
+}
+
+.menu-link {
+    text-decoration: none;
 }
 
 header nav span {
     margin-right: 3rem;
     cursor: pointer;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
     
 }
 
 
 header nav span:last-child {
     margin-right: 0;
+
+
 }
