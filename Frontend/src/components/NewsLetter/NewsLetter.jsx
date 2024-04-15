@@ -1,4 +1,3 @@
-
 import './NewsLetter.css'
 
 export const NewsLetter = () => {

@@ -1,6 +1,6 @@
 import "./ProductDisplay.css"
 
-function ProductDisplay() {
+export const ProductDisplay = () => {
   return (
     <div className="product-Container">
     
@@ -19,4 +19,3 @@ function ProductDisplay() {
   )
 }
 
-export default ProductDisplay

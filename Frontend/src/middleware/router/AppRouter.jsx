@@ -1,8 +1,10 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "../../../src/pages/Home/Home";
-import Accessories from "../../../src/pages/Accessories/Accessories";
-import BasketsFruit from "../../../src/pages/BasketsFruit/BasketsFruit";
-import ImportedFruit from "../../../src/pages/ImportedFruit/ImportedFruit";
+import Home from "../../pages/Home/Home";
+import Accessories from "../../pages/Accessories/Accessories";
+import BasketsFruit from "../../pages/BasketsFruit/BasketsFruit";
+import ImportedFruit from "../../pages/ImportedFruit/ImportedFruit";
+import NationalFruit from "../../pages/NationalFruit/NationalFruit";
+import Contact from "../../pages/Contact/Contact";
 
 const AppRouter = () => {
     return (
@@ -10,14 +12,16 @@ const AppRouter = () => {
         <BrowserRouter>
             <Routes>
                 <Route path="/" element={<Home />} />
-                <Route path="/accesorios" element={<Accessories />} />
-                <Route path="/cestas regalo" element={<BasketsFruit />} />
+                <Route path="/accessories" element={<Accessories />} />
+                <Route path="/basketsFruit" element={<BasketsFruit />} />
                 <Route path="/importedFruit" element={<ImportedFruit />} />
-                
-            </Routes>
+                <Route path="/nationalFruit" element={<NationalFruit />} />
+                <Route path="/contact" element={<Contact />} />
+             </Routes>
         </BrowserRouter>
 
-    );
+    );   
+            
 };
 
 

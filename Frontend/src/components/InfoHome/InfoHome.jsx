@@ -1,6 +1,6 @@
 import "./InfoHome.css";
 
-export default function InfoHome() {
+export const InfoHome = () => {
   return (
     <div className="info-HomeContainer">
       <h3 className="info-HomeTitle">FRUTAPP</h3>

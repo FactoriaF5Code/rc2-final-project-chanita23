@@ -1,11 +1,10 @@
 import './App.css'
-import { Home } from './pages/Home/Home';
+import AppRouter from './middleware/router/AppRouter';
 
 function App() {
-
   return (
     <>
-      <Home />
+      <AppRouter />;
     </>
   )
 }
