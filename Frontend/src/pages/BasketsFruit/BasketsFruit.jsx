@@ -1,18 +1,4 @@
-import "./BasketsFruit.css"
-import Searcher from "../../components/Searcher/Searcher";
-
-
-const BasketsFruit = () => {
-  return (
-     <>
+export default function BasketsFruit() {
     
-    <div className="containerPartnerList">
-      
-      <h1>Anchetas o cestas regalo</h1>
-      <Searcher />
-     
-    </div>
-    </>
-  )
+  return <div>cestas regalo</div>;
 }
-export default BasketsFruit;

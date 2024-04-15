@@ -1,0 +1,20 @@
+.product-Container {
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+
+}
+
+
+
+.product {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5rem;
+}
+
+.product img {
+    width: 30rem;
+    height: 20rem;
+    object-fit: cover;
+}

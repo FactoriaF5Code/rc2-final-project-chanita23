@@ -1,5 +1,5 @@
 import  logo  from "../../assets/logo.jpg";
 
 export const Logo = () => <img 
-    style={{ height: "50px"}}
+    style={{ height: "70px"}}
     src={logo} />;
