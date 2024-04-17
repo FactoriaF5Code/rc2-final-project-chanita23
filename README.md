@@ -24,3 +24,10 @@ cd Frontend
 npm install 
 npm run dev 
 ```
+### Backend
+
+```
+cd backend
+mvn spring-boot:run
+Para lanzar el backend necesitamos una base de datos Postgres según la configuración de src/main/resources/application.properties.
+```
