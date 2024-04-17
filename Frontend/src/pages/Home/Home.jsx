@@ -6,6 +6,7 @@ import { Footer } from '../../components/Footer/Footer';
 import { InfoHome } from '../../components/InfoHome/InfoHome';
 import { ProductDisplay } from '../../components/ProductDisplay/ProductDisplay';
 
+
 export default function Home() {
 
     return (
@@ -16,6 +17,7 @@ export default function Home() {
             <ProductDisplay />
             <NewsLetter />
             <Footer />
+           
         </>
     )
 }
