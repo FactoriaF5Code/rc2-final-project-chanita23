@@ -28,3 +28,10 @@
     border-radius: 10px;
     background: #252525;
 }
+
+.basket-title {
+    margin-top: 20px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+  }

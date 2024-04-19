@@ -3,7 +3,6 @@ import { Footer } from '../../components/Footer/Footer';
 import { NewsLetter } from '../../components/NewsLetter/NewsLetter';
 import { NewOrders } from '../../components/NewOrders/NewOrders'
 import "./BasketsFruit.css"
-import { Dropdown } from '../../components/Dropdown/Dropdown';
 
 
 export default function BasketsFruit() {
@@ -12,10 +11,11 @@ export default function BasketsFruit() {
 
     <div>
       <Header />
+      
       <div className="fruit-bowl">
         <img src="../../../src/assets/banner 2.jpg" alt="frutas" />
       </div>
-      <Dropdown />
+      <h3 className='basket-title'>ANCHETAS Y CANASTAS</h3>
       <NewOrders />
       <NewsLetter />
       <Footer />

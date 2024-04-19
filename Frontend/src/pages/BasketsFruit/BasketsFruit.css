@@ -24,5 +24,12 @@
   box-shadow: 6px 8px 5px 0px rgba(0, 0, 0, 0.44);
 }
 
+.basket-title {
+  margin-top: 20px;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
 
 

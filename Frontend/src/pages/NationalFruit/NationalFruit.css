@@ -28,6 +28,14 @@
     width: 300px;
     height: 400px;
     border-radius: 10px;
-    background: #ffff;
+    background-size: contain;
+    background-position: center;
     margin-bottom: 15px;
 }
+
+.basket-title {
+    margin-top: 20px;
+    color: #a7c957;
+    font-size: 30px;
+    font-weight: bold;
+  }
